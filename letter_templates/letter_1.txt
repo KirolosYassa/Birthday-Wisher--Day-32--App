@@ -1,7 +1,29 @@
-Dear [NAME],
 
-Happy birthday!
-
-All the best for the year!
-
-Kirolos
+<html>
+    <body>
+        <div>
+            <h3> 
+                Salam ya Kiro,
+                <br>
+                Nhrda 3id milad [NAME],
+                <br>
+                y2ma <strong>t3ayd 3lih(a) bMokalma</strong>
+                <br>
+                aw
+                <br>
+                teb3tloh(ha) elMessage dy:
+            </h3>
+        </div>
+        <hr>
+        <p>
+        
+            Happy Birthday y [NAME].. isa elSnady t722 eli nfsk fih 
+            <br>
+            wtb2a sna 7lwa 3lik 
+        </p>
+        <hr>
+        <h3> 
+            Bravo 3lik y Kiro :)
+        </h3>
+    </body>
+</html>

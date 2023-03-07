@@ -1,7 +1,29 @@
-Dear [NAME],
+<html>
+    <body>
+        <div>
+            <h3> 
+                Salam ya Kiro,
+                <br>
+                Nhrda 3id milad [NAME],
+                <br>
+                y2ma <strong>t3ayd 3lih(a) bMokalma</strong>
+                <br>
+                aw
+                <br>
+                teb3tloh(ha) elMessage dy:
+            </h3>
+        </div>
+        <hr>
+        <p>
+        
+            Happy Birthday y [NAME]..  yarb kda elSna dy tb2a 7lwa 3lik
+            <br>
+            wt722 kol eli nfsk fih
 
-It's your birthday! Have a great day!
-
-All my love,
-
-Kirolos
+        </p>
+        <hr>
+        <h3> 
+            Bravo 3lik y Kiro :)
+        </h3>
+    </body>
+</html>
